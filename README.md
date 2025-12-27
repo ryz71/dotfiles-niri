@@ -1,6 +1,6 @@
 you need a package:
-xwayland-satellite
+xwayland-satellite : https://github.com/Supreeeme/xwayland-satellite
 
-app launcher: fuzzel
+app launcher: fuzzel https://codeberg.org/dnkl/fuzzel
 
 bar: https://github.com/Alexays/Waybar
